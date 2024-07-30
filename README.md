@@ -6,8 +6,8 @@
 
 
 如有小伙伴，有更好的建议或不明白的部分，欢迎随时联系我进行讨论
-pycekim333@gmail.com
-praiselord5@163.com
+‘pycekim333@gmail.com’
+‘praiselord5@163.com’
 
 
 
@@ -22,5 +22,6 @@ Do not use for commercial purposes. If there is any infringement, please contact
 
 If any friends have better suggestions or unclear parts, please feel free to contact me at any time for discussion
 
-pycekim333@gmail.com
-praiselord5@163.com
+‘pycekim333@gmail.com’
+
+‘praiselord5@163.com’

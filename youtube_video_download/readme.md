@@ -2,7 +2,7 @@
 
 你需要去api官网自助申请好api key，带着你申请的apikey发送请求拿到每条视频的id，拼接成完整视频地址
 
-再用完成视频地址使用yt_dlp库去下载到你指定的文件夹
+再用完整视频地址使用yt_dlp库去下载到你指定的文件夹
 
 https://console.cloud.google.com/apis/api/youtube.googleapis.com/metrics
 
